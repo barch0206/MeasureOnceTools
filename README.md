@@ -79,6 +79,10 @@ measure-once-tools/
 
 ## 📸 Screenshots
 
+![1000002338](https://github.com/user-attachments/assets/45a017fe-f7b3-4e38-b684-5c956420b707)
+![1000002335](https://github.com/user-attachments/assets/8b7694cf-7020-4340-ae91-1b6827cfda7b)
+![1000002336](https://github.com/user-attachments/assets/b926421a-1c9a-4716-be1e-06b6f3fe057c)
+![1000002337](https://github.com/user-attachments/assets/e43365c6-c5e6-4b8c-b9d2-10eccc471d8d)
 
 ---
 
